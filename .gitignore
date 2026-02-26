@@ -137,3 +137,8 @@ dist
 # Vite logs files
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+
+
+/CoughAnalysis_TB_Classification/node_modules
+!CoughAnalysis_TB_Classification
